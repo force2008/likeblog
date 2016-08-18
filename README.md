@@ -9,3 +9,4 @@ readme
 
 ### August 18, 2016
 - [gold-miner/css-writing-mode.md at master · huanglizhuo/gold-miner · GitHub](https://github.com/huanglizhuo/gold-miner/blob/master/TODO/css-writing-mode.md) 
+- [九个Console命令，让js调试更简单 · Issue #32 · dwqs/blog · GitHub](https://github.com/dwqs/blog/issues/32) 
