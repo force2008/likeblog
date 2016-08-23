@@ -14,3 +14,6 @@ readme
 
 ### August 22, 2016
 - [emitter/index.js at master · component/emitter](https://github.com/component/emitter/blob/master/index.js) 
+
+### August 23, 2016
+- [pure的演变之路 · Issue #4 · fengzilong/blog](https://github.com/fengzilong/blog/issues/4) 
